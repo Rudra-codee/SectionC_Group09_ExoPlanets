@@ -8,7 +8,7 @@
 
 | S.No | Name | Enrollment Number |
 |------|------|-------------------|
-| 1    | [Member Name 1] | [Enrollment No. 1] |
+| 1    | Krishna | 2401010237 |
 | 2    | [Member Name 2] | [Enrollment No. 2] |
 | 3    | [Member Name 3] | [Enrollment No. 3] |
 | 4    | [Member Name 4] | [Enrollment No. 4] |
